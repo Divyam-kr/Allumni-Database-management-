@@ -1,5 +1,5 @@
 # SIT project
-Alumni Management System for educational Firms
+Alumni Management System for Educational Firms
 
 This project is aimed at developing a Repository and each Engine for alumni of the college, which is of importance to a college. The Alumni Information System is a offline based JAVA application that can be accessed 24X7 without any internet connection. Authorized persons can access the search Engine to know about any Alumni of the college. 
 The application is also built using MySQL, making it a powerful and flexible tool for managing large amounts of data.
